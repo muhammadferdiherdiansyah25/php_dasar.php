@@ -28,7 +28,7 @@ berbeda-beda sesuai pilihan pekerjaan.
 
 ![0422](https://user-images.githubusercontent.com/101733752/169407267-17f53ef7-ed95-4177-87dd-4ba64ccc4472.PNG)
 
-Hasilnya makan akan seperti ini . 
+Hasilnya maka akan seperti ini . 
 
 ![2203](https://user-images.githubusercontent.com/101733752/169408033-d4984952-20fb-47c9-9834-81fef04b229f.PNG)
 
