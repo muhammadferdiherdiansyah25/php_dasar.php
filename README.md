@@ -3,9 +3,13 @@
 TUGAS 7 PEMOGRAMAN WEB
 
 NAMA      : MUHAMMAD FERDI HERDIANSYAH
+
 NIM       : 312010038
+
 KELAS     : TI.20 D1
+
 MATA PEL  : PEMOGRAMAN WEB
+
 DOSEN     : Agung Nugroho,S.Kom.,M.Kom.,
 
 Pertanyaan dan Tugas
